@@ -1,7 +1,6 @@
 # Hi, I'm Ahmed Shawaly 👋
 
-### Data & Analytics Engineer · Azure · Snowflake · dbt · PySpark
-
+### Data & Analytics Engineer 
 > I build end-to-end analytics pipelines and cloud data warehouses on Azure and Snowflake.  
 > Passionate about scalable, analytics-ready data platforms that drive real insights.
 
@@ -47,19 +46,14 @@ Graduation project: sentiment analysis & summarization using BERT, RoBERTa, Dist
 Interactive Power BI dashboard analysing 15,000+ listings to surface pricing trends and value drivers.  
 `Power BI` `DAX` `Power Query`
 
----
-
-### 📜 Certifications
-- Microsoft Azure Fundamentals (AZ-900)
-- Azure Databricks & Spark for Data Engineers
-- Azure Data Factory for Data Engineers
-- Snowflake — The Complete Masterclass
-
----
-
-### 📊 GitHub stats
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedshawaly12&show_icons=true&theme=default&hide_border=true)
 
 ---
 
 📬 ahmed.shawaly74@gmail.com  |  💼 [LinkedIn](https://linkedin.com/in/ahmed-shawaly)  |  📍 Cairo, Egypt
+
+
+
+
+
+
+
