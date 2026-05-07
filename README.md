@@ -26,26 +26,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-### 🚀 Featured projects
-
-**[Azure End-to-End Data Platform](https://github.com/ahmedshawaly12)**  
-Scalable batch & real-time pipeline for Uber ride analytics. Medallion Architecture (Bronze/Silver/Gold) with Delta Lake, star schema in Synapse Analytics, and Unity Catalog governance.  
-`Azure Data Factory` `Event Hubs` `Databricks` `PySpark` `Delta Lake` `Synapse`
-
-**[Sales Data Pipeline — ERP & CRM to Snowflake](https://github.com/ahmedshawaly12)**  
-ELT pipeline transforming raw ERP & CRM data into an analytics-ready Sales Data Mart. SCD Type 2 in dbt, hybrid loading, dbt tests, and Airflow scheduling.  
-`Snowflake` `dbt` `Apache Airflow` `Python`
-
-**[Analytica — Amazon Reviews NLP Web App](https://github.com/ahmedshawaly12)**  
-Graduation project: sentiment analysis & summarization using BERT, RoBERTa, DistilBERT, LSTM, and T5 transformer. Flask web app with interactive dashboard.  
-`Python` `BERT` `RoBERTa` `T5` `Flask` `BeautifulSoup`
-
-**[Austin Housing Market Analytics Dashboard](https://github.com/ahmedshawaly12)**  
-Interactive Power BI dashboard analysing 15,000+ listings to surface pricing trends and value drivers.  
-`Power BI` `DAX` `Power Query`
-
 
 ---
 
